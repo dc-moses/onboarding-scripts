@@ -64,6 +64,7 @@ The script generates a CSV file (`onboarding_metrics.csv`) with the following co
 - Onboarded Branches
 - Not Onboarded Branches
 - PR Submitted
+- Skipped Repositories
 
 ## Example
 
